@@ -1,4 +1,4 @@
-# Master_Thesis_Style
+# Master_Thesis_Template
 
 A xelatex master's thesis template for the Physics department of the University of Tehran.
 
